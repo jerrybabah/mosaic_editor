@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# 에디터가 만든 결과물 (입력과 같은 디렉터리에 저장됨)
+*_mosaic.mp4
+*_mosaic_[0-9]*.mp4
+
+# 로컬 런타임 파일
+.claude/scheduled_tasks.lock
+.DS_Store
